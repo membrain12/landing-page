@@ -126,6 +126,7 @@ a {
 
 #subtext {
     color: #E5E7EB;
+    font-size: 16px;
 }
 
 #subscribe {
@@ -135,10 +136,12 @@ a {
     border: 1px solid #F9FAF8;
     padding: 4px 16px 4px 16px;
     margin-left: auto;
+    font-size: 16px;
 }
 
 #fourth-heading {
     margin-bottom: -8px;
+    font-size: 24px;
 }
 
 .footer {
