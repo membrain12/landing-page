@@ -95,3 +95,19 @@ a {
     justify-content: center;
 }
 
+.third {
+    background-color: #E5E7EB;
+    padding: 15%;
+}
+
+#quote {
+    font-size: 36px;
+    font-style: italic;
+}
+
+#person {
+    font-size: 36px;
+    display: flex;
+    justify-content: flex-end;
+}
+
