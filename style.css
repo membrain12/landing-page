@@ -111,3 +111,29 @@ a {
     justify-content: flex-end;
 }
 
+.fourth {
+    padding-right: 10%;
+    padding-left: 10%;
+    color: #F9FAF8;
+}
+
+#sign-up-box {
+    background-color: #3882F6;
+}
+
+#subtext {
+    color: #E5E7EB;
+}
+
+#subscribe {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border-radius: 4px;
+    border: 1px solid #F9FAF8;
+    padding: 4px 16px 4px 16px;
+}
+
+.fourth-text {
+    
+}
+
