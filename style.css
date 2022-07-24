@@ -42,6 +42,7 @@ a {
 #top-image {
     max-width: 50%;
     height: auto;
+    margin-left: 16px;
 }
 
 .top-container h1{
