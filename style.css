@@ -8,6 +8,7 @@ body {
     padding-left: 10%;
     padding-right: 10%;
     padding-top: 2%;
+    padding-bottom: 0;
     /*may have to change size of top section here*/
 }
 
@@ -64,12 +65,31 @@ a {
     padding: 4px 16px 4px 16px;
 }
 
+.second {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
 .second h2 {
     font-size: 36px;
     font-weight: bolder;
     color: #1F2937;
+    display: flex;
+    justify-content: center;
+}
+
+.img {
+    width: 150px;
+    height: 100px;
 }
 
 .card {
-
+    width: 150px;
+    margin: 16px;
 }
+
+.cards {
+    display: flex;
+    justify-content: center;
+}
+
