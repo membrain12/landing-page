@@ -1,0 +1,39 @@
+body {
+    margin: 0%;
+}
+
+.first {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 2%;
+}
+
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+#title-logo {
+    width: 200px;
+    height: 40px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.sublinks {
+    display: flex;
+    gap: 16px;
+}
+/*end of header section*/
+
+.top-container {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 10%;
+}
